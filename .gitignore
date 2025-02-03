@@ -175,3 +175,6 @@ yolov5/
 
 # Assets folder
 assets/
+
+# Model folder
+model/
